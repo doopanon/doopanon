@@ -1,5 +1,7 @@
 # hey, i'm doop !!
 
+![octocat](octodoop.png)
+
 ## info about me:
 
 - currently learning more about haxeflixel
