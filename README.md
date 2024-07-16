@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=PMingLiU-ExtB&pause=1000&color=9876D7&repeat=false&random=false&width=435&lines=hey,+i'm+doop !!)](https://git.io/typing-svg)
-
-# 
+# hey, i'm doop !!
 
 ## info about me:
 
