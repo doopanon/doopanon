@@ -1,4 +1,4 @@
-# hey, i'm doop !!
+# hey, i'm lexxie !!
 
 ![octocat](octodoop.png)
 
