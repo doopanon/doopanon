@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=haxe)](https://skillicons.dev) using the [![My Skills](https://skillicons.dev/icons?i=haxeflixel)](https://skillicons.dev) framework
 -
 ## projects i'm working on:
-mainly just fnf modifications at the moment
-dragonfly rumble
+- fnf modifications
+- dragonfly rumble
 
 # that's all! now GET OUT MY PROFILE. RAAAAAAAAAAAAH
