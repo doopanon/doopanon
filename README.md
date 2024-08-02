@@ -7,7 +7,7 @@
 - currently learning more about haxeflixel
 - my discord is evilslopacc if you ever want to contact me
 
-## learning
-[![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+## i'm learning
+the [![My Skills](https://skillicons.dev/icons?i=unity)](https://skillicons.dev) game engine
 
 # that's all! now GET OUT MY PROFILE. RAAAAAAAAAAAAH
